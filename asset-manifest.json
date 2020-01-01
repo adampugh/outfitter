@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/outfitter/static/css/main.27b55955.chunk.css",
+    "main.js": "/outfitter/static/js/main.c0a5ff20.chunk.js",
+    "main.js.map": "/outfitter/static/js/main.c0a5ff20.chunk.js.map",
+    "runtime-main.js": "/outfitter/static/js/runtime-main.bbddf0ef.js",
+    "runtime-main.js.map": "/outfitter/static/js/runtime-main.bbddf0ef.js.map",
+    "static/js/2.87ea3706.chunk.js": "/outfitter/static/js/2.87ea3706.chunk.js",
+    "static/js/2.87ea3706.chunk.js.map": "/outfitter/static/js/2.87ea3706.chunk.js.map",
+    "index.html": "/outfitter/index.html",
+    "precache-manifest.b36ce25966d564806c3b5cd2b01e93a0.js": "/outfitter/precache-manifest.b36ce25966d564806c3b5cd2b01e93a0.js",
+    "service-worker.js": "/outfitter/service-worker.js",
+    "static/css/main.27b55955.chunk.css.map": "/outfitter/static/css/main.27b55955.chunk.css.map",
+    "static/js/2.87ea3706.chunk.js.LICENSE": "/outfitter/static/js/2.87ea3706.chunk.js.LICENSE",
+    "static/media/chinatownmarketdesigner.jpg": "/outfitter/static/media/chinatownmarketdesigner.83a44bfe.jpg",
+    "static/media/chmenprive.jpg": "/outfitter/static/media/chmenprive.492fc747.jpg",
+    "static/media/ftpbear.jpg": "/outfitter/static/media/ftpbear.226767fa.jpg",
+    "static/media/index.scss": "/outfitter/static/media/giphy2.42e10ffb.gif",
+    "static/media/hmxmoschino.jpg": "/outfitter/static/media/hmxmoschino.2af50a2b.jpg",
+    "static/media/kawsxuniqloxseasame.jpg": "/outfitter/static/media/kawsxuniqloxseasame.f0660056.jpg",
+    "static/media/logo1.png": "/outfitter/static/media/logo1.efe522e7.png",
+    "static/media/nikesacai.jpg": "/outfitter/static/media/nikesacai.828d0bbf.jpg",
+    "static/media/nikevapormax2.jpg": "/outfitter/static/media/nikevapormax2.dd7436ac.jpg",
+    "static/media/nikevapormaxjapan.jpg": "/outfitter/static/media/nikevapormaxjapan.9bcd21dd.jpg",
+    "static/media/palaceripped.jpg": "/outfitter/static/media/palaceripped.afd94b7f.jpg",
+    "static/media/palacewiseup.jpg": "/outfitter/static/media/palacewiseup.6f69da95.jpg",
+    "static/media/question.png": "/outfitter/static/media/question.8a1a3131.png",
+    "static/media/supremegetsome.jpg": "/outfitter/static/media/supremegetsome.5cf6f8dd.jpg",
+    "static/media/supremeliquidswords.jpg": "/outfitter/static/media/supremeliquidswords.4462f950.jpg",
+    "static/media/supremexhellraiser.jpg": "/outfitter/static/media/supremexhellraiser.64001400.jpg",
+    "static/media/supremexrubber.jpg": "/outfitter/static/media/supremexrubber.12979d64.jpg",
+    "static/media/supremexvampirella.jpg": "/outfitter/static/media/supremexvampirella.877ae7aa.jpg",
+    "static/media/timberlandxmastermind.png": "/outfitter/static/media/timberlandxmastermind.e2b19ed1.png",
+    "static/media/tnfxdsm.jpg": "/outfitter/static/media/tnfxdsm.87547b67.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbddf0ef.js",
+    "static/js/2.87ea3706.chunk.js",
+    "static/css/main.27b55955.chunk.css",
+    "static/js/main.c0a5ff20.chunk.js"
+  ]
+}
