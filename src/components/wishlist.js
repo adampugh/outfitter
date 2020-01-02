@@ -7,14 +7,12 @@ import SupremeGetSome from '../images/wishlist/supremegetsome.jpg';
 import SupremeLiquidSwords from '../images/wishlist/supremeliquidswords.jpg';
 import PalaceRipped from '../images/wishlist/palaceripped.jpg';
 
-
 const wishlistItems = [
     { title: "nike x sacai", img: NikeSacai },
     { title: "supreme liquid swords", img: SupremeLiquidSwords },
     { title: "supreme get some", img: SupremeGetSome },
     { title: "palace ripped", img: PalaceRipped },
 ]
-
 
 const Wishlist = () => (
     <div className="wishlistWrapper">
