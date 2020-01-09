@@ -22,6 +22,11 @@ body {
     }
 }
 
+.grid--comic {
+    background: linear-gradient(to bottom right, rgba(55, 55, 55, 0.4), rgba(225, 225, 225, 0.4)), url('../images/giphy3.gif') repeat center center;
+    background-size: cover;
+}
+
 .col {
     margin: 20px 20px;
     text-align: center;
