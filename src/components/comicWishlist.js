@@ -2,16 +2,20 @@ import React from 'react';
 
 import WishlistItem from './wishlistItem';
 
-import NikeSacai from '../images/wishlist/nikesacai.jpg';
-import SupremeGetSome from '../images/wishlist/supremegetsome.jpg';
-import SupremeLiquidSwords from '../images/wishlist/supremeliquidswords.jpg';
-import PalaceRipped from '../images/wishlist/palaceripped.jpg';
+import Spawn1 from '../images/comics/spawn1.jpg';
+import Spawn285 from '../images/comics/spawn285.jpg';
+import BatmanWhoLaughs2 from '../images/comics/batmanwholaughs2.jpg';
+import DarkNightsMetal2 from '../images/comics/darknightsmetal2.jpg';
+import AmazingSpiderman252 from '../images/comics/amazingspiderman252.jpg';
+import WebOfSpiderman1 from '../images/comics/webofspiderman1.jpg';
 
 const wishlistItems = [
-    { title: "nike x sacai", img: NikeSacai },
-    { title: "supreme liquid swords", img: SupremeLiquidSwords },
-    { title: "supreme get some", img: SupremeGetSome },
-    { title: "palace ripped", img: PalaceRipped },
+    { title: 'Spawn #1', img: Spawn1 },
+    { title: 'Spawn #285', img: Spawn285 },
+    { title: 'Batman Who Laughs #2 Dell\'Otto Virgin', img: BatmanWhoLaughs2 },
+    { title: 'Dark Nights Metal #2 Mattina', img: DarkNightsMetal2 },
+    { title: 'Amazing Spider-Man #252', img: AmazingSpiderman252 },
+    { title: 'Web of Spider-Man #1', img: WebOfSpiderman1 }
 ]
 
 const ComicWishlist = () => (
