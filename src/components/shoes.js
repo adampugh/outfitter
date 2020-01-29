@@ -5,7 +5,6 @@ import Question from '../images/question.png';
 import NikeVapormax2 from '../images/shoes/nikevapormax2.jpg';
 import NikeVapormaxJapan from '../images/shoes/nikevapormaxjapan.jpg';
 
-// aftershave
 import CHMenPrive from '../images/aftershave/chmenprive.jpg';
 
 const Shoes = () => (
