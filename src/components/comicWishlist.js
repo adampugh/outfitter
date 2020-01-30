@@ -25,6 +25,6 @@ const ComicWishlist = () => (
             { wishlistItems.map(({ img, title }) => <WishlistItem key={title} img={img} title={title} />) }
         </div>
     </div>
-);
+)
 
 export default ComicWishlist;
