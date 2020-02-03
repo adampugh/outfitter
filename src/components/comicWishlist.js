@@ -7,7 +7,6 @@ import Spawn285 from '../images/comics/spawn285.jpg';
 import BatmanWhoLaughs2 from '../images/comics/batmanwholaughs2.jpg';
 import DarkNightsMetal2 from '../images/comics/darknightsmetal2.jpg';
 import AmazingSpiderman252 from '../images/comics/amazingspiderman252.jpg';
-import WebOfSpiderman1 from '../images/comics/webofspiderman1.jpg';
 
 const wishlistItems = [
     { title: 'Spawn #1', img: Spawn1 },
