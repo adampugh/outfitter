@@ -1,7 +1,6 @@
 import React from 'react';
 
 import Question from '../images/question.png';
-
 import WebOfSpiderman1 from '../images/comics/webofspiderman1.jpg';
 
 const Comics = () => (
