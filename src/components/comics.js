@@ -1,7 +1,9 @@
 import React from 'react';
 
 import Question from '../images/question.png';
+
 import WebOfSpiderman1 from '../images/comics/webofspiderman1.jpg';
+import Spawn1 from '../images/comics/spawn1.jpg';
 
 const Comics = () => (
     <div className="col">
@@ -12,8 +14,8 @@ const Comics = () => (
                 <p>Web of Spider-Man 1</p>
             </div>
             <div>
-                <img src={Question} alt="???"/>
-                <p>???</p>
+                <img src={Spawn1} alt="Spawn 1"/>
+                <p>Spawn 1</p>
             </div>
             <div>
                 <img src={Question} alt="???"/>
