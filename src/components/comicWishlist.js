@@ -11,8 +11,7 @@ const wishlistItems = [
     { title: 'Spawn #285', img: Spawn285 },
     { title: 'Batman Who Laughs #2 Dell\'Otto Virgin', img: BatmanWhoLaughs2 },
     { title: 'Dark Nights Metal #2 Mattina', img: DarkNightsMetal2 },
-    { title: 'Amazing Spider-Man #252', img: AmazingSpiderman252 },
-    { title: 'Web of Spider-Man #1', img: WebOfSpiderman1 }
+    { title: 'Amazing Spider-Man #252', img: AmazingSpiderman252 }
 ]
 
 const ComicWishlist = () => (
