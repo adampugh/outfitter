@@ -5,6 +5,7 @@ import Question from '../images/question.png';
 import WebOfSpiderman1 from '../images/comics/webofspiderman1.jpg';
 import Spawn1 from '../images/comics/spawn1.jpg';
 
+
 const Comics = () => (
     <div className="col">
         <h1>コミック</h1>
