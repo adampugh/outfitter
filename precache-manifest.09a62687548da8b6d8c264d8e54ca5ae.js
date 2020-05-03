@@ -1,27 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3329242b8a6caf1b259dbf2e8d06bbf3",
+    "revision": "bc34b25fef6776f781b1a34bef6797a7",
     "url": "/outfitter/index.html"
   },
   {
-    "revision": "3caf179cdbe92b8bc687",
-    "url": "/outfitter/static/css/main.27b55955.chunk.css"
+    "revision": "cdd617158aa0b5e40790",
+    "url": "/outfitter/static/css/main.8d310b24.chunk.css"
   },
   {
-    "revision": "9b2f4b9bd030ee4c75e4",
-    "url": "/outfitter/static/js/2.87ea3706.chunk.js"
+    "revision": "de41fc5e6d5e8760acd5",
+    "url": "/outfitter/static/js/2.c75be780.chunk.js"
   },
   {
     "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/outfitter/static/js/2.87ea3706.chunk.js.LICENSE"
+    "url": "/outfitter/static/js/2.c75be780.chunk.js.LICENSE"
   },
   {
-    "revision": "3caf179cdbe92b8bc687",
-    "url": "/outfitter/static/js/main.c0a5ff20.chunk.js"
+    "revision": "cdd617158aa0b5e40790",
+    "url": "/outfitter/static/js/main.376b8c2c.chunk.js"
   },
   {
     "revision": "61803d5703983830eb85",
     "url": "/outfitter/static/js/runtime-main.bbddf0ef.js"
+  },
+  {
+    "revision": "426d696fdf8e2f8ecd8aab730d7d9546",
+    "url": "/outfitter/static/media/amazingspiderman252.426d696f.jpg"
+  },
+  {
+    "revision": "eab0e9ffe8c31f5d510f75e9a81dc41e",
+    "url": "/outfitter/static/media/batmanwholaughs2.eab0e9ff.jpg"
   },
   {
     "revision": "83a44bfe2f2f4a67dde59c4b68a797f8",
@@ -32,12 +40,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/outfitter/static/media/chmenprive.492fc747.jpg"
   },
   {
+    "revision": "80086e00faadc74125c0a0b0223e0beb",
+    "url": "/outfitter/static/media/darknightsmetal2.80086e00.jpg"
+  },
+  {
     "revision": "226767fa78f966043fac9cb443970f98",
     "url": "/outfitter/static/media/ftpbear.226767fa.jpg"
   },
   {
     "revision": "42e10ffbd07716559608c3d683df3561",
     "url": "/outfitter/static/media/giphy2.42e10ffb.gif"
+  },
+  {
+    "revision": "79d67ecab398ceeadc0f96b65b40bcac",
+    "url": "/outfitter/static/media/giphy3.79d67eca.gif"
   },
   {
     "revision": "2af50a2b725f8d73df23e321cffd5bab",
@@ -76,6 +92,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/outfitter/static/media/question.8a1a3131.png"
   },
   {
+    "revision": "37df288afc90930948de4c3de1a8cae2",
+    "url": "/outfitter/static/media/spawn1.37df288a.jpg"
+  },
+  {
+    "revision": "c5fe15ea9b18a97364d96ffbcf44badd",
+    "url": "/outfitter/static/media/spawn285.c5fe15ea.jpg"
+  },
+  {
     "revision": "5cf6f8ddfcc5bf73d24dced1b8913b80",
     "url": "/outfitter/static/media/supremegetsome.5cf6f8dd.jpg"
   },
@@ -86,6 +110,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "640014007de38eb60071f8acb90d465a",
     "url": "/outfitter/static/media/supremexhellraiser.64001400.jpg"
+  },
+  {
+    "revision": "83d5f5dc733389d673d36f86355bdd5c",
+    "url": "/outfitter/static/media/supremexnorthface.83d5f5dc.jpg"
   },
   {
     "revision": "12979d645707fd2f21f6fb0619bc4782",
@@ -102,5 +130,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "87547b67325a311d33cd233f7ec2456b",
     "url": "/outfitter/static/media/tnfxdsm.87547b67.jpg"
+  },
+  {
+    "revision": "194301264b4c302f3baf54f564566d53",
+    "url": "/outfitter/static/media/webofspiderman1.19430126.jpg"
   }
 ]);
