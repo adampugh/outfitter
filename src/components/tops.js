@@ -3,6 +3,7 @@ import React from 'react';
 import Question from '../images/question.png';
 
 import HMxMoschino from '../images/hoodies/hmxmoschino.jpg';
+import SupremexTNF from '../images/hoodies/supremexnorthface.jpg';
 
 import FTPBear from '../images/sweaters/ftpbear.jpg';
 import TNFxDSM from '../images/sweaters/tnfxdsm.jpg';
@@ -16,8 +17,8 @@ const Tops = () => (
                 <p>H&M x Moschino</p>
             </div>
             <div>
-                <img src={Question} alt="???"/>
-                <p>???</p>
+                <img src={SupremexTNF} alt="Supreme x TNF"/>
+                <p>Supreme x The North Face</p>
             </div>
             <div>
                 <img src={Question} alt="???"/>
